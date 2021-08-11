@@ -4,6 +4,7 @@
 
 <p>
    <img src="https://github-readme-stats.vercel.app/api?username=ferdiozer&show_icons=true" width = 400>
+      <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
 </p>
 
 
@@ -22,6 +23,8 @@
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
 - 🔧 &nbsp; Git | Vscode | Linux
 
+<br/>
+📣
 <br/>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -62,9 +65,8 @@
 <br />
 <br />
 
-📣
 <p>
-   <h3> 🤝🏻 Connect with me </h3>:<br/>
+   <h3> 🤝🏻 Connect with me </h3>
   <a href="mailto:hi@ferdiozer.com?subject=[GitHub]%20🔥%20profilecontact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://instagram.com/ferdi.ozer"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/ferdiozer"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
