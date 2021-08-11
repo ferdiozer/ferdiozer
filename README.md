@@ -4,7 +4,9 @@
 
 <p>
    <img src="https://github-readme-stats.vercel.app/api?username=ferdiozer&show_icons=true" width = 400>
+   <a target="_blank" href="https://www.npmjs.com/~ferdiozer">
       <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
+      </a>
 </p>
 
 
