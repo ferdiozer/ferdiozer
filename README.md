@@ -25,11 +25,12 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | React NATIVE | TypeScript | Php
-- 🛢 &nbsp; MongoDB | Redis | MySQL | SQL Server
+- 🌐 &nbsp; JavaScript | TypeScript | NodeJS | ReactJS | ElectronJS | React NATIVE
+- - 🌐 &nbsp; HTML | CSS  | Bootstrap | Php
+- 🛢 &nbsp; MongoDB | MySQL | SQL Server
+- 🔧 &nbsp; Git | Github | Gitlab | Vscode | Linux
+- ⚡ &nbsp; RabbitMQ | Mqtt | Redis
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
-- 🔧 &nbsp; Git | Vscode | Linux
-- 
 
 <br/>
 📣
