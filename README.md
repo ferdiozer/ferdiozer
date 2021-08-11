@@ -2,9 +2,11 @@
 <h1 align="center">Hi 👋, I'm  Ferdi Özer!</h1>
 <br>
 
-<p align = "center">
+<p>
    <img src="https://github-readme-stats.vercel.app/api?username=ferdiozer&show_icons=true" width = 400>
 </p>
+
+<div><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.npmjs.com/~ferdiozer"><svg viewBox="0 0 27.23 27.23"><rect fill="#333333" width="27.23" height="27.23" rx="2"></rect><polygon fill="#fff" points="5.8 21.75 13.66 21.75 13.67 9.98 17.59 9.98 17.58 21.76 21.51 21.76 21.52 6.06 5.82 6.04 5.8 21.75"></polygon></svg></a></div>
 
 <h3> 👨🏻‍💻 &nbsp;Me </h3>
 
