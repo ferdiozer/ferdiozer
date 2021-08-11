@@ -19,8 +19,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;Me </h3>
 
-- 🎓 &nbsp; Graduated in Computer Engineering.
+- 🎓 &nbsp; Graduated in Computer Engineering
 - :rocket: &nbsp; Learning; Deep Learning for NLP in Python
+- 💼I live in Istanbul/TURKEY 
 
 <h3>🛠 Tech Stack</h3>
 
@@ -28,6 +29,7 @@
 - 🛢 &nbsp; MongoDB | Redis | MySQL | SQL Server
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
 - 🔧 &nbsp; Git | Vscode | Linux
+- 
 
 <br/>
 📣
