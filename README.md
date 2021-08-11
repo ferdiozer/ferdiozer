@@ -5,6 +5,7 @@
 <p align = "center">
    <img src = " https://github-readme-stats.vercel.app/api?username=ferdiozer&show_icons=true" width = 400>
 </p>
+[shades-of-purple]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shades-of-purple
 
 <h3> 👨🏻‍💻 &nbsp;Me </h3>
 
