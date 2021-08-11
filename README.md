@@ -5,6 +5,7 @@
 <p>
    <img src="https://github-readme-stats.vercel.app/api?username=ferdiozer&show_icons=true" width = 400>
    <br/>
+   <br/>
     👇 Visit my NpmJs profile
 <br/>
    <a target="_blank" href="https://www.npmjs.com/~ferdiozer">
