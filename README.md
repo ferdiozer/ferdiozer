@@ -21,7 +21,7 @@
 
 - 🎓 &nbsp; Graduated in Computer Engineering
 - :rocket: &nbsp; Learning; Deep Learning for NLP in Python
-- 💼I live in Istanbul/TURKEY 
+- 💼 &nbsp; I live in Istanbul/TURKEY 
 
 <h3>🛠 Tech Stack</h3>
 
