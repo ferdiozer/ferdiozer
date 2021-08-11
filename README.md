@@ -4,6 +4,8 @@
 
 <p>
    <img src="https://github-readme-stats.vercel.app/api?username=ferdiozer&show_icons=true" width = 400>
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
    <br/>
    <br/>
     👇 Visit my NpmJs profile
