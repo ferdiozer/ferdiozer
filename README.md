@@ -10,20 +10,20 @@
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferdiozer&repo=hetzner-cloud-api-js"  height="120">
    </a>
 
-   <br/>
-   <br/>
+   <br>
+   <br>
     👇 Visit my NpmJs profile
 <br/>
    <a target="_blank" href="https://www.npmjs.com/~ferdiozer">
       <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
    </a>
    
-    <br/>
-   <br/>
+    <br>
+   <br>
     👇 Visit my Docker Hub profile
-<br/>
+<br>
    <a target="_blank" href="https://hub.docker.com/u/ferdiozer">
-      <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
+      <img src="https://img.shields.io/static/v1?label=docker&message=hub&color=blue"/>
    </a>
    
 </p>
@@ -105,8 +105,6 @@
 </p>
 <br>
 <br>
-
-<hr>
 
 <h2 align="center">
    I ❤ Open Source.
