@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
    </a>
   
-   <br>
+  
     👇 Visit my Docker Hub profile
 <br>
    <a target="_blank" href="https://hub.docker.com/u/ferdiozer">
