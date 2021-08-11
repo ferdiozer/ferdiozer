@@ -13,12 +13,11 @@
    <br>
    <br>
     👇 Visit my NpmJs profile
-<br/>
+<br>
    <a target="_blank" href="https://www.npmjs.com/~ferdiozer">
       <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
    </a>
-   
-    <br>
+  
    <br>
     👇 Visit my Docker Hub profile
 <br>
