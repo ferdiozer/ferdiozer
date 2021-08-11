@@ -17,6 +17,15 @@
    <a target="_blank" href="https://www.npmjs.com/~ferdiozer">
       <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
    </a>
+   
+    <br/>
+   <br/>
+    👇 Visit my Docker Hub profile
+<br/>
+   <a target="_blank" href="https://hub.docker.com/u/ferdiozer">
+      <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
+   </a>
+   
 </p>
 
 
@@ -36,6 +45,7 @@
 - 🛢 &nbsp; MongoDB | MySQL | SQL Server
 - 🔧 &nbsp; Git | Github | Gitlab | Vscode | Linux
 - ⚡ &nbsp; RabbitMQ | Mqtt | Redis
+- ⚡ &nbsp; Docker | Web Socket | Nginx | DevOps
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
 
 
@@ -95,6 +105,12 @@
 </p>
 <br>
 <br>
+
+<hr>
+
+<h2 align="center">
+   I ❤ Open Source.
+</h2>
 
 <!--
 <br/>
