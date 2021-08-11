@@ -1,9 +1,15 @@
-### Hi there 👋  I'm Ferdi Özer.
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h1 align="center">Hi 👋, I'm  Ferdi Özer!</h1>
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?ferdiozer=pr2tik1&show_icons=true&theme=bear" width = 400>
+</p>
+
+<h3> 👨🏻‍💻 &nbsp;Me </h3>
 
 - 🎓 &nbsp; Graduated in Computer Engineering.
-- :rocket: &nbsp; Learning; Deep Learning for NLP in Python, Docker and DevOps.
+- :rocket: &nbsp; Learning; Deep Learning for NLP in Python
 
 <h3>🛠 Tech Stack</h3>
 
