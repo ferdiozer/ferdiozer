@@ -3,7 +3,8 @@
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?ferdiozer=pr2tik1&show_icons=true&theme=bear" width = 400>
+ ![Ferdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdiozer&show_icons=true)
+
 </p>
 
 <h3> 👨🏻‍💻 &nbsp;Me </h3>
