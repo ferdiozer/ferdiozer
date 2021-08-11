@@ -3,9 +3,8 @@
 <br>
 
 <p>
-   <img src="https://github-readme-stats.vercel.app/api?username=ferdiozer&show_icons=true" width = 400>
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferdiozer&repo=hetzner-cloud-api-js" width = 400>
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ferdiozer&repo=hetzner-cloud-api-js)](https://github.com/ferdiozer/hetzner-cloud-api-js)
+   <img src="https://github-readme-stats.vercel.app/api?username=ferdiozer&show_icons=true" width="50%"  height="120">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferdiozer&repo=hetzner-cloud-api-js" width="50%" height="120">
 
    <br/>
    <br/>
