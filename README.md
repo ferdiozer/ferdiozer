@@ -6,6 +6,8 @@
    <img src="https://github-readme-stats.vercel.app/api?username=ferdiozer&show_icons=true" width = 400>
 </p>
 
+
+
 <div><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.npmjs.com/~ferdiozer"><svg viewBox="0 0 27.23 27.23"><rect fill="#333333" width="27.23" height="27.23" rx="2"></rect><polygon fill="#fff" points="5.8 21.75 13.66 21.75 13.67 9.98 17.59 9.98 17.58 21.76 21.51 21.76 21.52 6.06 5.82 6.04 5.8 21.75"></polygon></svg></a></div>
 
 <h3> 👨🏻‍💻 &nbsp;Me </h3>
@@ -59,10 +61,14 @@
 ![Material UI](https://img.shields.io/badge/-Material%20UI-000?&logo=Material-UI)
 <br />
 <br />
-<h3> 🤝🏻 Connect with Me </h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ferdiozer)](https://www.linkedin.com/in/ferdiozer)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@ferdiozer.com)](mailto:info@ferdiozer.com)
+📣
+<p>
+   <h3> 🤝🏻 Connect with me </h3>:<br/>
+  <a href="mailto:hi@ferdiozer.com?subject=[GitHub]%20🔥%20profilecontact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://instagram.com/ferdi.ozer"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ferdiozer"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 
 <!--
