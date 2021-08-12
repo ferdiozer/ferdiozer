@@ -37,11 +37,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; JavaScript | TypeScript | NodeJS | ReactJS | ElectronJS | React NATIVE
+- 🌐 &nbsp; JavaScript | TypeScript | ECMAScript | NodeJS | ReactJS | ElectronJS | React NATIVE
 - 🌐 &nbsp; HTML | CSS  | Bootstrap | Php
 - 🛢 &nbsp; MongoDB | MySQL | SQL Server
 - 🔧 &nbsp; Git | Github | Gitlab | Vscode | Linux
-- ⚡ &nbsp; RabbitMQ | Mqtt | Redis
+- ⚡ &nbsp; RabbitMQ  | Mqtt | Kafka | Redis | Microservices
 - ⚡ &nbsp; Docker | Web Socket | Nginx | DevOps
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
 
