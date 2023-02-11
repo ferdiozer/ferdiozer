@@ -1,11 +1,11 @@
 
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/source.gif" align="right" height="180">
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/source.gif" align="right" height="240">
 
 # Hi 👋, I'm  Ferdi Özer!
 
 ## Engineer | Entrepreneur | Software Developer
 
-#### Blockchain | Crypto | NFT | Web3 | Metaverse | Exchange | Javascript | Python
+### Blockchain | Crypto | NFT | Web3 | Metaverse | Exchange | Javascript | Python
 
 <br />
 <br />
@@ -13,10 +13,10 @@
 
 <div width="100%">
    <a href="https://github.com/ferdiozer?tab=repositories">
-   <img src="https://github-readme-stats.vercel.app/api?username=ferdiozer&show_icons=true" width="50%" height="120">
+   <img src="https://github-readme-stats.vercel.app/api?username=ferdiozer&show_icons=true" height="120">
    </a>
     <a href="https://github.com/ferdiozer/hetzner-cloud-api-js">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferdiozer&repo=hetzner-cloud-api-js" width="50%"  height="120">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferdiozer&repo=hetzner-cloud-api-js" height="120">
    </a>
 </div>
 
