@@ -5,9 +5,12 @@
 
 ## Engineer | Entrepreneur | Software Developer
 
-### Blockchain | Crypto | NFT | Web3 | Metaverse | Exchange | Javascript | Python
+##### Blockchain | Crypto | NFT | Web3 | Metaverse | Exchange | Javascript | Python
 
 <br />
+<br />
+<br />
+
 
 
 <p>
@@ -17,20 +20,6 @@
     <a href="https://github.com/ferdiozer/hetzner-cloud-api-js">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferdiozer&repo=hetzner-cloud-api-js"  height="120">
    </a>
-
-   <br>
-   <br>
-    👇 Visit my NpmJs profile<br>
-   <a target="_blank" href="https://www.npmjs.com/~ferdiozer">
-      <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
-   </a>
-  
-  <br>
-    👇 Visit my Docker Hub profile<br>
-   <a target="_blank" href="https://hub.docker.com/u/ferdiozer">
-      <img src="https://img.shields.io/static/v1?label=docker&message=hub&color=blue"/>
-   </a>
-   
 </p>
 
 
@@ -97,6 +86,20 @@
   <a href="mailto:hi@ferdiozer.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://instagram.com/ferdi.ozer"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/ferdiozer"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  
+
+   <br/><br/>
+    👇 Visit my NpmJs profile<br/>
+   <a target="_blank" href="https://www.npmjs.com/~ferdiozer">
+      <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
+   </a>
+  
+   <br/><br/>
+    👇 Visit my Docker Hub profile<br/>
+   <a target="_blank" href="https://hub.docker.com/u/ferdiozer">
+      <img src="https://img.shields.io/static/v1?label=docker&message=hub&color=blue"/>
+   </a>
+   
 </p>
 
 <br>
