@@ -1,26 +1,24 @@
 
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/source.gif" align="right" height="250">
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/source.gif" align="right" height="180">
 
 # Hi 👋, I'm  Ferdi Özer!
 
 ## Engineer | Entrepreneur | Software Developer
 
-##### Blockchain | Crypto | NFT | Web3 | Metaverse | Exchange | Javascript | Python
+#### Blockchain | Crypto | NFT | Web3 | Metaverse | Exchange | Javascript | Python
 
 <br />
 <br />
 <br />
 
-
-
-<p>
+<div width="100%">
    <a href="https://github.com/ferdiozer?tab=repositories">
    <img src="https://github-readme-stats.vercel.app/api?username=ferdiozer&show_icons=true" width="400" height="120">
    </a>
     <a href="https://github.com/ferdiozer/hetzner-cloud-api-js">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferdiozer&repo=hetzner-cloud-api-js"  height="120">
    </a>
-</p>
+</div>
 
 
 
@@ -87,19 +85,13 @@
   <a href="https://instagram.com/ferdi.ozer"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/ferdiozer"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
-
    <br/><br/>
-    👇 Visit my NpmJs profile<br/>
    <a target="_blank" href="https://www.npmjs.com/~ferdiozer">
       <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
    </a>
-  
-   <br/><br/>
-    👇 Visit my Docker Hub profile<br/>
    <a target="_blank" href="https://hub.docker.com/u/ferdiozer">
       <img src="https://img.shields.io/static/v1?label=docker&message=hub&color=blue"/>
    </a>
-   
 </p>
 
 <br>
