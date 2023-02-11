@@ -1,6 +1,14 @@
 
-<h1 align="center">Hi 👋, I'm  Ferdi Özer!</h1>
-<br>
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/source.gif" align="right" height="250">
+
+# Hi 👋, I'm  Ferdi Özer!
+
+## Engineer | Entrepreneur | Software Developer
+
+### Blockchain | Crypto | NFT | Web3 | Metaverse | Exchange | Javascript | Python
+
+<br />
+
 
 <p>
    <a href="https://github.com/ferdiozer?tab=repositories">
